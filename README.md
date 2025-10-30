@@ -10,6 +10,8 @@ This project demonstrates end-to-end ML workflow — including data preprocessin
 
 It highlights practical data science skills such as classification modeling, feature engineering, and HR analytics to optimize workforce management decisions.
 
+APPLICATION LINK : https://blank-app-9rckiu83su.streamlit.app/
+
 THE DATASET FOR EACH OF THE FOLLOWING MODEL HAS BEEN UPLAODED IN THE FILE SECTION OF THIS REPOSITORY
 1.FOR EMPOLYEE PROMOTION DATASET IS NAMED AS employee_promotion.csv .
 2.FOR EMPLOYEE ATTRITION DATASET IS NAMED AS IBMEmployee_dataset.csv .
