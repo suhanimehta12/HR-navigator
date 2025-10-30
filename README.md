@@ -1,19 +1,11 @@
-# 🎈 Blank app template
+The HR Navigation Model is a machine learning–based project that supports data-driven HR decision-making through three predictive models — Promotion, Attrition, and Hiring.
 
-A simple Streamlit app template for you to modify!
+Promotion Model: Identifies employees with high promotion potential using performance and experience data.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+Attrition Model: Predicts employee turnover risk to improve retention strategies.
 
-### How to run it on your own machine
+Hiring Model: Assesses candidate profiles to enhance hiring efficiency and success rates.
 
-1. Install the requirements
+This project demonstrates end-to-end ML workflow — including data preprocessing, EDA, model training, evaluation, and visualization — using Python, Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn.
 
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+It highlights practical data science skills such as classification modeling, feature engineering, and HR analytics to optimize workforce management decisions.
