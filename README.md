@@ -9,3 +9,6 @@ Hiring Model: Assesses candidate profiles to enhance hiring efficiency and succe
 This project demonstrates end-to-end ML workflow — including data preprocessing, EDA, model training, evaluation, and visualization — using Python, Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn.
 
 It highlights practical data science skills such as classification modeling, feature engineering, and HR analytics to optimize workforce management decisions.
+
+
+
